@@ -8,12 +8,11 @@ A Image dataset generator for CNN made using python
 2. Install [Opencv](https://github.com/opencv/opencv):
 ```
 pip install opencv-python
-
 ```
 3. Run the script:
+```
 cd Webcam_dataset_generator
 python cam.py
-
 ```
 
 
